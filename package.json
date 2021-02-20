@@ -1,0 +1,14 @@
+{
+  "name": "box-sizing-reset.css",
+  "version": "1.0.0",
+  "description": "Just the simple box-sizing reset, as plain css, in npm",
+  "main": "box-sizing-reset.css",
+  "style": "box-sizing-reset.css",
+  "files": [
+    "LICENSE.md",
+    "box-sizing-reset.css"
+  ],
+  "repository": "leny/box-sizing-reset.css",
+  "license": "Unlicense",
+  "bugs": "https://github.com/leny/box-sizing-reset.css/issues"
+}
